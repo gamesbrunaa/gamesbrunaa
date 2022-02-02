@@ -12,7 +12,6 @@
 	<img align="center" alt="Val-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	<img align="center" alt="Val-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 	<img align="center" alt="Val-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-	<img align="center" alt="Val-AdobeXD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg"/>
   	<img align="right" alt="Val-gif" height="150" width="150" src="https://s9.gifyu.com/images/picasion.com_33e6309f661cf9e7706c0da530ed3133.gif"/>	
 	
 </div>
