@@ -1,5 +1,5 @@
 <h1 align="center">Hello, world. I'm Bruna Veloso <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h5 align="center">I am a Junior at Suez Canal University. I like to Code, Design, Innovate and Experiment, love comptetitive. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h5 align="center">I am a student at the Federal University of Piauí. I like to Code, Design, Innovate and Experiment, love comptetitive. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <p align="center"> 
 	<img src="https://gpvc.arturio.dev/gamesbrunaa" alt="7oSkaaa" target="_blank"/></a>
 <br>
