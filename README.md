@@ -1,16 +1,25 @@
-<h1 align="center">Hello, world. I'm Bruna Veloso <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h5 align="center">I am a student at the Federal University of Piauí. I like to Code, Design, Innovate and Experiment, love comptetitive. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
-<p align="center"> 
-	<img src="https://gpvc.arturio.dev/gamesbrunaa" alt="7oSkaaa" target="_blank"/></a>
-<br>
- <div>
-  <a href="https://github.com/gamesbrunaa">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamesbrunaa&layout=compact&langs_count=7&theme=vue&hide_border=true"/>
-  <a href="https://github.com/gamesbrunaa">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gamesbrunaa&theme=vue&hide_border=true"/>
+<div align=center>
+ <img src="https://i.ibb.co/Kbdgq8G/54bda352b17744efa1f6898040455423.gif">
 </div>
-	 
-<div style="display: inline_block"><br>
+ 
+<h1 align="center">Hello, world. I'm Bruna Veloso <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h4>
+Eu sou uma estudante da Universidade Federal do Piauí. Eu amo  design, programar, inovar, experimentar, aprender novos idiomas e adoro competir. Sou uma pessoa entusiasta e sociável que adora enfrentar novos desafios e aprender novas habilidades. Gosto muito conhecer novas pessoas, trocar ideias e compartilhar conhecimento. </h4>
+
+### + Sobre Mim
+
+- 💻 Desenvolvedora de Software - Frontend
+- 🎓 Estudante de Sistemas de Informação
+- 🌱 Aprendendo Inglês, Francês e Espanhol
+
+### + Interesses e Hobbies
+
+- 🎵 Descobrir bandas desconhecidas
+- 📚 Leitura de fantasia e romance
+- 🎮 Jogos de estratégia e muitoooo FPS
+- 🖌️ Escrever histórias e desenhar quadrinhos
+
+<div style="display: inline_block" align=right><br>
   	<img align="center" alt="Bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img align="center" alt="Bruna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="Bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,7 +28,11 @@
 	<img align="center" alt="Bruna-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/haskell/haskell-original.svg"/>
 	<img align="center" alt="Bruna-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg"/>
 	<img align="center" alt="Bruna-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg"/>
-  	<img align="right" alt="Bruna-gif" height="150" width="150" src="https://www.criarbanner.com.br/criargifs/a/f7dc09252a69d95e42122dac3422fa22.gif"/>		
+</div>
+
+ <div align=right>
+  <a href="https://github.com/gamesbrunaa">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamesbrunaa&layout=compact&langs_count=7&theme=vue&hide_border=true"/>
 </div>
   
 ##
