@@ -8,7 +8,8 @@ Eu sou uma estudante da Universidade Federal do Piauí. Eu amo  design, programa
 
 ### + Sobre Mim
 
-- 💻 Desenvolvedora de Software - Frontend
+- 💻 Desenvolvedora de Software
+- ⏳ Cientista de Dados em Treinamento
 - 🎓 Estudante de Sistemas de Informação
 - 🌱 Aprendendo Inglês, Francês e Espanhol
 
