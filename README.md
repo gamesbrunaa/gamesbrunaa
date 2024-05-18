@@ -30,13 +30,7 @@ Eu sou uma estudante da Universidade Federal do Piauí. Eu amo  design, programa
 	<img align="center" alt="Bruna-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg"/>
 	<img align="center" alt="Bruna-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg"/>
 </div>
-
- <div align=right>
-  <a href="https://github.com/gamesbrunaa">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamesbrunaa&layout=compact&langs_count=7&theme=vue&hide_border=true"/>
-</div>
   
-##
  
 <div align="right">
 	
