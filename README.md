@@ -1,46 +1,108 @@
-<div align=center>
- <img src="https://i.ibb.co/Kbdgq8G/54bda352b17744efa1f6898040455423.gif">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E0598B&height=180&section=header&text=Bruna%20Veloso&fontSize=36&fontColor=fff&fontAlignY=35&desc=Desenvolvedora%20·%20Python%20·%20Automação%20·%20Dados&descSize=16&descAlignY=55&descColor=fff" width="100%" />
+
 </div>
- 
-<h1 align="center">Hello, world. I'm Bruna Veloso <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h4>
-Eu sou uma estudante da Universidade Federal do Piauí. Eu amo  design, programar, inovar, experimentar, aprender novos idiomas e adoro competir. Sou uma pessoa entusiasta e sociável que adora enfrentar novos desafios e aprender novas habilidades. Gosto muito conhecer novas pessoas, trocar ideias e compartilhar conhecimento. </h4>
 
-### + Sobre Mim
-
-- 💻 Desenvolvedora de Software
-- ⏳ Cientista de Dados em Treinamento
-- 🎓 Estudante de Sistemas de Informação
-- 🌱 Aprendendo Inglês, Francês e Espanhol
-
-### + Interesses e Hobbies
-
-- 🎵 Descobrir bandas desconhecidas
-- 📚 Leitura de fantasia e romance
-- 🎮 Jogos de estratégia e muitoooo FPS
-- 🖌️ Escrever histórias e desenhar quadrinhos
-
-<div style="display: inline_block" align=right><br>
-  	<img align="center" alt="Bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	<img align="center" alt="Bruna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<img align="center" alt="Bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img align="center" alt="Bruna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-	<img align="center" alt="Bruna-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-	<img align="center" alt="Bruna-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/haskell/haskell-original.svg"/>
-	<img align="center" alt="Bruna-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg"/>
-	<img align="center" alt="Bruna-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg"/>
-</div>
-  
- 
-<div align="right">
-	
-  <a href="https://instagram.com/gamesbrunaa/">
-    <img align="center" src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"/></a>
-  <a href="https://twitter.com/xxkuronekoK">
-    <img align="center" src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"/></a>
-  <a href="https://discord.gg/gamesbrunaa">
-     <img align="center" src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF"></a>
+<p align="center">
   <a href="https://www.linkedin.com/in/bruna-veloso-2996b2219/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
-	  
+    <img src="https://img.shields.io/badge/-LinkedIn-E0598B?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gamessbrunaa@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-E0598B?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+```python
+class BrunaVeloso:
+
+    def __init__(self):
+        self.role = "Desenvolvedora de Software"
+        self.location = "Picos, Piauí 🇧🇷"
+        self.languages = ["Português", "English", "Français"]
+        self.interests = ["clean code", "automação", "dados", "boas práticas", "APIs"]
+
+    def stack(self):
+        return {
+            "dia_a_dia": ["Python", "SQL", "n8n", "HTML/CSS/JS", "Docker", "Git"],
+            "estudando": ["React", "FastAPI", "PostgreSQL", "CI/CD"],
+        }
+```
+
+---
+
+<div align="center">
+
+#### ✦ O que eu construo ✦
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/-Backend & APIs-F4B8CC?style=flat-square" /><br/>
+      <sub>APIs RESTful, microsserviços<br/>e integrações entre<br/>sistemas</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/-Automação-F4B8CC?style=flat-square" /><br/>
+      <sub>Workflows, scripts e<br/>bots que eliminam<br/>trabalho manual</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/-Dados-F4B8CC?style=flat-square" /><br/>
+      <sub>Dashboards, relatórios<br/>e análises que apoiam<br/>decisões reais</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/-Ferramentas Internas-F4B8CC?style=flat-square" /><br/>
+      <sub>Sistemas web<br/>que resolvem problemas<br/>reais de operação</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+#### ✦ Tech Stack ✦
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-E0598B?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-E0598B?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-E0598B?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-E0598B?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML%2FCSS-E0598B?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-E0598B?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-E0598B?style=for-the-badge&logo=n8n&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-F4B8CC?style=flat-square&logo=react&logoColor=grey" />
+<img src="https://img.shields.io/badge/FastAPI-F4B8CC?style=flat-square&logo=fastapi&logoColor=grey" />
+<img src="https://img.shields.io/badge/PostgreSQL-F4B8CC?style=flat-square&logo=postgresql&logoColor=grey" />
+<img src="https://img.shields.io/badge/CI%2FCD-F4B8CC?style=flat-square&logo=gitlab&logoColor=grey" />
+
+<sub>✦ badges maiores = uso no dia a dia · menores = estudando ✦</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+#### ✦ Além do código ✦
+
+📚 Tenho um clube do livro<br/>
+🌍 Estudando francês e inglês<br/>
+✈️ Sempre planejando a proxima viagem<br/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E0598B&height=100&section=footer" width="100%" />
+
 </div>
