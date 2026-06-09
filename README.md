@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E0598B&height=180&section=header&text=Bruna%20Veloso&fontSize=36&fontColor=fff&fontAlignY=35&desc=Desenvolvedora%20·%20Python%20·%20Automação%20·%20Dados&descSize=16&descAlignY=55&descColor=fff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E0598B&height=180&section=header&text=Bruna%20Veloso&fontSize=36&fontColor=fff&fontAlignY=35&desc=Developer%20·%20Python%20·%20Automation%20·%20Data&descSize=16&descAlignY=55&descColor=fff" width="100%" />
 
 </div>
 
@@ -19,15 +19,15 @@
 class BrunaVeloso:
 
     def __init__(self):
-        self.role = "Desenvolvedora de Software"
+        self.role = "Software Developer"
         self.location = "Picos, Piauí 🇧🇷"
         self.languages = ["Português", "English", "Français"]
-        self.interests = ["clean code", "automação", "dados", "boas práticas", "APIs"]
+        self.interests = ["clean code", "automation", "data", "best practices", "APIs"]
 
     def stack(self):
         return {
-            "dia_a_dia": ["Python", "SQL", "n8n", "HTML/CSS/JS", "Docker", "Git"],
-            "estudando": ["React", "FastAPI", "PostgreSQL", "CI/CD"],
+            "daily": ["Python", "SQL", "n8n", "HTML/CSS/JS", "Docker", "Git"],
+            "learning": ["React", "FastAPI", "PostgreSQL", "CI/CD"],
         }
 ```
 
@@ -35,7 +35,7 @@ class BrunaVeloso:
 
 <div align="center">
 
-#### ✦ O que eu construo ✦
+#### ✦ What I build ✦
 
 </div>
 
@@ -43,19 +43,19 @@ class BrunaVeloso:
   <tr>
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/-Backend & APIs-F4B8CC?style=flat-square" /><br/>
-      <sub>APIs RESTful, microsserviços<br/>e integrações entre<br/>sistemas</sub>
+      <sub>RESTful APIs, microservices<br/>and system<br/>integrations</sub>
     </td>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/-Automação-F4B8CC?style=flat-square" /><br/>
-      <sub>Workflows, scripts e<br/>bots que eliminam<br/>trabalho manual</sub>
+      <img src="https://img.shields.io/badge/-Automation-F4B8CC?style=flat-square" /><br/>
+      <sub>Workflows, scripts and<br/>bots that eliminate<br/>manual work</sub>
     </td>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/-Dados-F4B8CC?style=flat-square" /><br/>
-      <sub>Dashboards, relatórios<br/>e análises que apoiam<br/>decisões reais</sub>
+      <img src="https://img.shields.io/badge/-Data-F4B8CC?style=flat-square" /><br/>
+      <sub>Dashboards, reports<br/>and analyses that support<br/>real decisions</sub>
     </td>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/-Ferramentas Internas-F4B8CC?style=flat-square" /><br/>
-      <sub>Sistemas web<br/>que resolvem problemas<br/>reais de operação</sub>
+      <img src="https://img.shields.io/badge/-Internal Tools-F4B8CC?style=flat-square" /><br/>
+      <sub>Web systems that<br/>solve real-world<br/>operation problems</sub>
     </td>
   </tr>
 </table>
@@ -83,7 +83,7 @@ class BrunaVeloso:
 <img src="https://img.shields.io/badge/PostgreSQL-F4B8CC?style=flat-square&logo=postgresql&logoColor=grey" />
 <img src="https://img.shields.io/badge/CI%2FCD-F4B8CC?style=flat-square&logo=gitlab&logoColor=grey" />
 
-<sub>✦ badges maiores = uso no dia a dia · menores = estudando ✦</sub>
+<sub>✦ larger badges = daily use · smaller = currently learning ✦</sub>
 
 </div>
 
@@ -91,11 +91,11 @@ class BrunaVeloso:
 
 <div align="center">
 
-#### ✦ Além do código ✦
+#### ✦ Beyond the code ✦
 
-📚 Tenho um clube do livro<br/>
-🌍 Estudando francês e inglês<br/>
-✈️ Sempre planejando a proxima viagem<br/>
+📚 I run a book club<br/>
+🌍 Learning French and English<br/>
+✈️ Always planning the next trip<br/>
 
 </div>
 
